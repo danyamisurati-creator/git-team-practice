@@ -1,0 +1,3 @@
+Git Team Practice
+This is our first GitHub Desktop practice.
+We are learning Git step by step.
